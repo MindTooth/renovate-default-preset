@@ -6,7 +6,8 @@
     ":label(dependencies)",
     ":timezone(Europe/Berlin)",
     ":rebaseStalePrs",
-    ":disableRateLimiting"
+    ":disableRateLimiting",
+    ":maintainLockFilesWeekly"
   ],
 
   "enabledManagers": [""]
