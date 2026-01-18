@@ -5,6 +5,7 @@
     "config:recommended",
     ":label(dependencies)",
     ":timezone(Europe/Berlin)",
+    ":rebaseStalePrs",
     ":disableRateLimiting"
   ],
 
